@@ -2,4 +2,9 @@
 
 ## аэропоника
 
-* [Сайт](README.md)
+* [Среда разработки](README.md)
+* [Сайт](<README (1).md>)
+
+## Скетч
+
+* [Прошивка платы](sketch/proshivka-platy.md)
